@@ -1,2 +1,2 @@
 # Company-web
-https://reactproject-alpha.vercel.app/contact
+https://reactproject-alpha.vercel.app
